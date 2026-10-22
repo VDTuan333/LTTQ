@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BanHangLuuNiem</id>
+    <version>1.0.0</version>
+    <authors>BanHangLuuNiem</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0">
+        <dependency id="Microsoft.Data.SqlClient" version="7.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\UTC-LTTQ\LMS\BanHangLuuNiem\bin\Debug\net10.0-windows\BanHangLuuNiem.runtimeconfig.json" target="lib\net10.0-windows7.0\BanHangLuuNiem.runtimeconfig.json" />
+    <file src="D:\UTC-LTTQ\LMS\BanHangLuuNiem\bin\Debug\net10.0-windows\BanHangLuuNiem.dll" target="lib\net10.0-windows7.0\BanHangLuuNiem.dll" />
+  </files>
+</package>

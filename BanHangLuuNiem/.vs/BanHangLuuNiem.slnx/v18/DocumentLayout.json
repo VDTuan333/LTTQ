@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|d:\\utc-lttq\\lms\\banhangluuniem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|d:\\utc-lttq\\lms\\banhangluuniem\\hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|d:\\utc-lttq\\lms\\banhangluuniem\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\danhmuc\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:danhmuc\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\danhmuc\\frmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:danhmuc\\frmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\danhmuc\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:danhmuc\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\danhmuc\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:danhmuc\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|d:\\utc-lttq\\lms\\banhangluuniem\\hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F041E5-20CE-9D8A-7B1D-F10EFE0A8616}|BanHangLuuNiem.csproj|solutionrelative:hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "DanhMuc\\frmSanPham.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "DanhMuc\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:59:22.565Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "frmDangNhap.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:49:57.304Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\HoaDon\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon\\frmHoaDon.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\HoaDon\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "HoaDon\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T07:15:49.249Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T17:54:52.141Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:43:34.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "frmDangNhap.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\frmDangNhap.cs",
+              "RelativeToolTip": "frmDangNhap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:40:08.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "DanhMuc\\frmKhachHang.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "DanhMuc\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:41:32.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmChatLieu.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmChatLieu.cs",
+              "RelativeDocumentMoniker": "DanhMuc\\frmChatLieu.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmChatLieu.cs [Design]",
+              "RelativeToolTip": "DanhMuc\\frmChatLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:41:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "DanhMuc\\frmNhanVien.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\DanhMuc\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "DanhMuc\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:41:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\HoaDon\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon\\frmHoaDon.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\LMS\\BanHangLuuNiem\\HoaDon\\frmHoaDon.cs",
+              "RelativeToolTip": "HoaDon\\frmHoaDon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T18:09:51.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
