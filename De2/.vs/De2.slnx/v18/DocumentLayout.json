@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|d:\\utc-lttq\\thuc hanh\\ktgk_lttq\\de2\\de2\\frmvatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|solutionrelative:de2\\frmvatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\de2\\frmvatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|solutionrelative:de2\\frmvatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\de2\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|solutionrelative:de2\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\de2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|solutionrelative:de2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\de2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B747C5B-6451-4CFC-A5B6-CB900FBEFAC5}|De2\\De2.csproj|solutionrelative:de2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVatLieu.cs",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\frmVatLieu.cs",
+              "RelativeDocumentMoniker": "De2\\frmVatLieu.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\frmVatLieu.cs",
+              "RelativeToolTip": "De2\\frmVatLieu.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwIMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:09:16.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProcesser.cs",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\classes\\DataProcesser.cs",
+              "RelativeDocumentMoniker": "De2\\classes\\DataProcesser.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\classes\\DataProcesser.cs",
+              "RelativeToolTip": "De2\\classes\\DataProcesser.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:08:09.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\Program.cs",
+              "RelativeDocumentMoniker": "De2\\Program.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\Program.cs",
+              "RelativeToolTip": "De2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:58:41.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVatLieu.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\frmVatLieu.cs",
+              "RelativeDocumentMoniker": "De2\\frmVatLieu.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\frmVatLieu.cs [Design]",
+              "RelativeToolTip": "De2\\frmVatLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:57:22.743Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\Form1.cs",
+              "RelativeDocumentMoniker": "De2\\Form1.cs",
+              "ToolTip": "D:\\UTC-LTTQ\\thuc hanh\\KTGK_LTTQ\\De2\\De2\\Form1.cs [Design]",
+              "RelativeToolTip": "De2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:12:21.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\bin\Debug\De2.exe.config
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\bin\Debug\De2.exe
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\bin\Debug\De2.pdb
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.csproj.AssemblyReference.cache
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.Form1.resources
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.frmVatLieu.resources
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.Properties.Resources.resources
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.csproj.GenerateResource.cache
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.csproj.CoreCompileInputs.cache
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.exe
+D:\UTC-LTTQ\thuc hanh\KTGK_LTTQ\De2\De2\obj\Debug\De2.pdb
