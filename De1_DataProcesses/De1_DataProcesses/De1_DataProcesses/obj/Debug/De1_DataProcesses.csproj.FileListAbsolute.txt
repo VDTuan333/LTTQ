@@ -1,0 +1,10 @@
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\bin\Debug\De1_DataProcesses.exe.config
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\bin\Debug\De1_DataProcesses.exe
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\bin\Debug\De1_DataProcesses.pdb
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\obj\Debug\De1_DataProcesses.csproj.AssemblyReference.cache
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\obj\Debug\De1_DataProcesses.frmNhanVien.resources
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\obj\Debug\De1_DataProcesses.Properties.Resources.resources
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\obj\Debug\De1_DataProcesses.csproj.GenerateResource.cache
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\obj\Debug\De1_DataProcesses.csproj.CoreCompileInputs.cache
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\obj\Debug\De1_DataProcesses.exe
+D:\Study\Năm 3 Kỳ 1\Lập trình trực quan\De1_DataProcesses\De1_DataProcesses\obj\Debug\De1_DataProcesses.pdb
